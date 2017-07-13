@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeathPunishment.iml" filepath="$PROJECT_DIR$/DeathPunishment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeathPunishment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeathPunishment_main.iml" group="DeathPunishment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeathPunishment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DeathPunishment_test.iml" group="DeathPunishment" />
+    </modules>
+  </component>
+</project>
